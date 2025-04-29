@@ -1,3 +1,14 @@
 .card {
     background-color: lightgray;
 }
+
+.btn {
+    background-color: #3b4018;
+    color: white
+
+}
+
+.btn:hover {
+    background-color: #9fa668;
+
+}
